@@ -8,10 +8,8 @@ h1 {
 
 .container {
     background-color:lightsteelblue;
-    height:950px;
+    height:1000px;
     weight:900px;
-    margin: -100px 0px 100px 0px;
-    padding: 10px 0px;
 }
 
 .aqua-box {
