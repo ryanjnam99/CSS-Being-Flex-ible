@@ -1,0 +1,88 @@
+h1 {
+    color:darkslategray;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 35pt;
+    background-color: lightsteelblue; 
+}
+
+.container {
+    background-color:lightsteelblue;
+    height:950px;
+    weight:900px;
+    margin: -100px 0px 100px 0px;
+    padding: 10px 0px;
+}
+
+.aqua-box {
+    height: 250px;
+    weight: 300px;
+    background-color:aqua;
+    margin: 90px 20px 0px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.boxer {
+    height: 200px;
+}
+
+.terracotta {
+    height: 200px;
+}
+
+.PI {
+    height: 200px;
+}
+
+.plum-box {
+    height: 250px;
+    weight:300px;
+    background-color:plum;
+    margin:20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.dune {
+    height:200px;
+    margin: 0px 50px 0px 0px;
+}
+
+.niner {
+    height:200px;
+    margin: 0px 0px 0px 50px;
+}
+
+.white {
+    height: 250px;
+    weight: 300px;
+    margin: 20px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.dj {
+    height: 200px;
+}
+
+.mega {
+    height:200px;
+}
+
+.meth {
+    height:200px;
+}
+
+p {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+a {
+    text-decoration: underline;
+    color:aqua;
+}
